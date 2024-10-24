@@ -5,3 +5,7 @@
 * {
     font-family: "Heebo", sans-serif;
 }
+
+.bg-gray {
+    background-color: var(--color-gray);
+}
